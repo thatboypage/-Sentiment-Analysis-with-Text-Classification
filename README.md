@@ -119,4 +119,4 @@ Let’s connect if you’re working on:
 * Applied ML/NLP projects
 * Or just want to chat about data science!
 
-📬 [LinkedIn]([https://www.linkedin.com/in/richard-olanite-55b4b0241/])
+📬 ([https://www.linkedin.com/in/richard-olanite-55b4b0241/])
